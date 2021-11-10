@@ -1,0 +1,34 @@
+.vertical-center {
+    display: table;
+    display: flex;
+    align-items: center;
+}
+
+.vertical-center > * {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.horizontal-center {
+    display: table;
+    display: flex;
+    justify-content: center;
+}
+
+.horizontal-center > * {
+    display: table-cell;
+    text-align: center;
+}
+
+.full-center {
+    display: table;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.full-center > * {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
