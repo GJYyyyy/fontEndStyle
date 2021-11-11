@@ -1,0 +1,19 @@
+{
+  "name": "fes",
+  "version": "1.0.0",
+  "description": "第2版通用布局css样式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GJYyyyy/fontEndStyle.git"
+  },
+  "author": "GJYyyyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GJYyyyy/fontEndStyle/issues"
+  },
+  "homepage": "https://github.com/GJYyyyy/fontEndStyle#readme"
+}
